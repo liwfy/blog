@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LIWFY — phonk edits, on-screen commentary</title>
+  <meta name="description" content="LIWFY is a phonk-edit YouTube channel run by a small editing team. Community clips, fast cuts, red filters, weekly uploads." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=JetBrains+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero__banner" id="banner"></div>
+    <div class="hero__scrim"></div>
+
+    <div class="hero__content">
+      <div class="hero__identity">
+        <img class="hero__avatar" id="avatar" alt="LIWFY avatar" />
+        <div class="hero__titleblock">
+          <h1 class="hero__title">LIWFY</h1>
+          <p class="hero__meta" id="channelMeta">@lienxt</p>
+        </div>
+      </div>
+
+      <p class="hero__description" id="channelDescription">
+        LIWFY is a phonk-edit channel run by a small editing team. Community-submitted clips get cut fast, tinted red, and stamped with on-screen commentary.
+      </p>
+
+      <nav class="hero__links">
+        <a href="https://www.youtube.com/@lienxt" target="_blank" rel="noopener">Watch on YouTube</a>
+        <a href="https://liwfy.github.io/submit" target="_blank" rel="noopener">Submit a clip</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="uploads">
+      <div class="uploads__head">
+        <h2>Recent uploads</h2>
+        <span class="uploads__sub">Pulled straight from the channel</span>
+      </div>
+
+      <div class="uploads__grid" id="videoGrid">
+        <p class="uploads__empty" id="videoEmpty">No uploads synced yet — check back after the next refresh.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__row">
+      <span>LIWFY</span>
+      <span class="dot">·</span>
+      <span>Data syncs from the YouTube API every 30 minutes</span>
+    </div>
+    <div class="site-footer__row site-footer__updated" id="updatedAt"></div>
+  </footer>
+
+  <script src="assets/script.js"></script>
+</body>
+</html>
