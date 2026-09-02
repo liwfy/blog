@@ -47,8 +47,6 @@ img {
   max-width: 100%;
 }
 
-/* Hero */
-
 .hero {
   position: relative;
   min-height: 62vh;
@@ -146,8 +144,6 @@ img {
   border-color: var(--accent-bright);
 }
 
-/* Uploads */
-
 .uploads {
   max-width: 960px;
   margin: 0 auto;
@@ -240,8 +236,6 @@ img {
   font-size: 0.75rem;
   color: var(--muted);
 }
-
-/* Footer */
 
 .site-footer {
   max-width: 960px;
