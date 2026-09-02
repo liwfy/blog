@@ -40,7 +40,14 @@ function renderChannel(data) {
   const metaParts = [channel.handle];
   if (subs) metaParts.push(`${subs} subscribers`);
   if (channel.videoCount) metaParts.push(`${channel.videoCount} videos`);
-  document.getElementById("channelMeta").textContent = metaParts.join(" · ");
+
+  const statsEl = document.getElementById("channelMeta");
+  statsEl.innerHTML = "";
+  for (const part of metaParts) {
+    const li = document.createElement("li");
+    li.textContent = part;
+    statsEl.appendChild(li);
+  }
 
   if (channel.description) {
     document.getElementById("channelDescription").textContent = channel.description;
