@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T16:14:52.036Z",
+  "updatedAt": "2026-09-03T19:23:25.001Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
@@ -26,7 +26,7 @@
       "publishedAt": "2026-09-01T13:54:08Z",
       "thumbnail": "https://i.ytimg.com/vi/luZ1tvEzuts/maxresdefault.jpg",
       "duration": "0:14",
-      "viewCount": "29034"
+      "viewCount": "29047"
     },
     {
       "id": "Rifx4az5KDI",
@@ -34,7 +34,7 @@
       "publishedAt": "2026-08-31T11:12:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Rifx4az5KDI/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "31653"
+      "viewCount": "31664"
     },
     {
       "id": "p6Y7NUOh7JE",
@@ -42,7 +42,7 @@
       "publishedAt": "2026-08-30T02:58:45Z",
       "thumbnail": "https://i.ytimg.com/vi/p6Y7NUOh7JE/maxresdefault.jpg",
       "duration": "0:14",
-      "viewCount": "14803"
+      "viewCount": "14811"
     },
     {
       "id": "5hOb-i-8wBc",
@@ -50,7 +50,7 @@
       "publishedAt": "2026-08-28T23:44:29Z",
       "thumbnail": "https://i.ytimg.com/vi/5hOb-i-8wBc/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "33967"
+      "viewCount": "33983"
     },
     {
       "id": "8bhalGx6pyk",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-08-28T12:02:29Z",
       "thumbnail": "https://i.ytimg.com/vi/8bhalGx6pyk/maxresdefault.jpg",
       "duration": "0:26",
-      "viewCount": "22288"
+      "viewCount": "22290"
     }
   ]
 }
