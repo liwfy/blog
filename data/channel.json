@@ -1,24 +1,32 @@
 {
-  "updatedAt": "2026-09-04T04:05:35.813Z",
+  "updatedAt": "2026-09-04T08:59:34.752Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
     "title": "LIWFY",
     "description": "This channel is run by a dedicated editing team.\n\nEvery video goes through its own curation and editing process, always respecting the licenses and permissions of the original material. We don't do simple reuploads.\n\nEach clip is cut, re-assembled, and paired with original on-screen text commentary, phonk soundtrack, cuts, transitions, and effects — resulting in a new piece with its own identity.\n\nMultiple different clips are combined and manually worked on until they form a single video with editing and commentary exclusive to this channel.\n\nQuestions, credits, or removals: x.fael@outlook.com\nWe reply to every message as soon as possible ❤️\n",
-    "subscriberCount": "519000",
-    "videoCount": "13",
+    "subscriberCount": "520000",
+    "videoCount": "14",
     "viewCount": "955769",
     "avatar": "https://yt3.ggpht.com/FOjj4tlxfY6Mi-lmDmHip5PE6-7GGTXpJEH65RdSFY_vpsk6Pez3pDDyYRpVd7YIc1YaaKVNBg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/s4fLdHoswQ9TZadbeKF_YIC5xxBKnhOkfb1FTDph0ccXL9NE0p8orGRUxaZ3043qKV0ycq1-VQ=w1600"
   },
   "videos": [
     {
+      "id": "n56WsG5pDCM",
+      "title": "She wasn't ready for this...",
+      "publishedAt": "2026-09-04T07:25:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/n56WsG5pDCM/maxresdefault.jpg",
+      "duration": "0:14",
+      "viewCount": "463"
+    },
+    {
       "id": "eURO02tCfAY",
       "title": "HE KNOWS SOMETHING, BUT HE CAN’T PROVE IT. 🤔🌹",
       "publishedAt": "2026-09-02T11:50:08Z",
       "thumbnail": "https://i.ytimg.com/vi/eURO02tCfAY/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "6135"
+      "viewCount": "6157"
     },
     {
       "id": "luZ1tvEzuts",
@@ -26,7 +34,7 @@
       "publishedAt": "2026-09-01T13:54:08Z",
       "thumbnail": "https://i.ytimg.com/vi/luZ1tvEzuts/maxresdefault.jpg",
       "duration": "0:14",
-      "viewCount": "29279"
+      "viewCount": "29332"
     },
     {
       "id": "Rifx4az5KDI",
@@ -34,7 +42,7 @@
       "publishedAt": "2026-08-31T11:12:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Rifx4az5KDI/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "31703"
+      "viewCount": "31731"
     },
     {
       "id": "p6Y7NUOh7JE",
@@ -42,7 +50,7 @@
       "publishedAt": "2026-08-30T02:58:45Z",
       "thumbnail": "https://i.ytimg.com/vi/p6Y7NUOh7JE/maxresdefault.jpg",
       "duration": "0:14",
-      "viewCount": "14824"
+      "viewCount": "14828"
     },
     {
       "id": "5hOb-i-8wBc",
@@ -50,15 +58,7 @@
       "publishedAt": "2026-08-28T23:44:29Z",
       "thumbnail": "https://i.ytimg.com/vi/5hOb-i-8wBc/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "34001"
-    },
-    {
-      "id": "8bhalGx6pyk",
-      "title": "She didn't see it coming, and he lost it laughing!",
-      "publishedAt": "2026-08-28T12:02:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/8bhalGx6pyk/maxresdefault.jpg",
-      "duration": "0:26",
-      "viewCount": "22295"
+      "viewCount": "34005"
     }
   ]
 }
