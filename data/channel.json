@@ -1,32 +1,40 @@
 {
-  "updatedAt": "2026-09-05T08:31:31.788Z",
+  "updatedAt": "2026-09-05T12:32:13.327Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
     "title": "LIWFY",
     "description": "This channel is run by a dedicated editing team.\n\nEvery video goes through its own curation and editing process, always respecting the licenses and permissions of the original material. We don't do simple reuploads.\n\nEach clip is cut, re-assembled, and paired with original on-screen text commentary, phonk soundtrack, cuts, transitions, and effects — resulting in a new piece with its own identity.\n\nMultiple different clips are combined and manually worked on until they form a single video with editing and commentary exclusive to this channel.\n\nQuestions, credits, or removals: x.fael@outlook.com\nWe reply to every message as soon as possible ❤️\n",
     "subscriberCount": "520000",
-    "videoCount": "16",
+    "videoCount": "17",
     "viewCount": "978280",
     "avatar": "https://yt3.ggpht.com/FOjj4tlxfY6Mi-lmDmHip5PE6-7GGTXpJEH65RdSFY_vpsk6Pez3pDDyYRpVd7YIc1YaaKVNBg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/s4fLdHoswQ9TZadbeKF_YIC5xxBKnhOkfb1FTDph0ccXL9NE0p8orGRUxaZ3043qKV0ycq1-VQ=w1600"
   },
   "videos": [
     {
+      "id": "yORAuuUkkcU",
+      "title": "🤣 Human version of a Chihuahua...",
+      "publishedAt": "2026-09-05T12:17:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/yORAuuUkkcU/maxresdefault.jpg",
+      "duration": "0:11",
+      "viewCount": "360"
+    },
+    {
       "id": "0veBQoP65DI",
       "title": "🥀 Bro playing hide and seek... #shorts",
       "publishedAt": "2026-09-05T06:09:55Z",
       "thumbnail": "https://i.ytimg.com/vi/0veBQoP65DI/maxresdefault.jpg",
       "duration": "0:09",
-      "viewCount": "1587"
+      "viewCount": "10985"
     },
     {
       "id": "yl2PxHDh_fo",
-      "title": "When your IQ is negative... 🥀",
+      "title": "🤪 When your IQ is negative...",
       "publishedAt": "2026-09-05T02:51:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yl2PxHDh_fo/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "2397"
+      "viewCount": "3311"
     },
     {
       "id": "n56WsG5pDCM",
@@ -34,7 +42,7 @@
       "publishedAt": "2026-09-04T07:25:02Z",
       "thumbnail": "https://i.ytimg.com/vi/n56WsG5pDCM/maxresdefault.jpg",
       "duration": "0:14",
-      "viewCount": "7854"
+      "viewCount": "11633"
     },
     {
       "id": "eURO02tCfAY",
@@ -42,7 +50,7 @@
       "publishedAt": "2026-09-02T11:50:08Z",
       "thumbnail": "https://i.ytimg.com/vi/eURO02tCfAY/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "8897"
+      "viewCount": "9534"
     },
     {
       "id": "luZ1tvEzuts",
@@ -50,15 +58,7 @@
       "publishedAt": "2026-09-01T13:54:08Z",
       "thumbnail": "https://i.ytimg.com/vi/luZ1tvEzuts/maxresdefault.jpg",
       "duration": "0:14",
-      "viewCount": "29490"
-    },
-    {
-      "id": "Rifx4az5KDI",
-      "title": "I think he needs a bigger umbrella...",
-      "publishedAt": "2026-08-31T11:12:54Z",
-      "thumbnail": "https://i.ytimg.com/vi/Rifx4az5KDI/maxresdefault.jpg",
-      "duration": "0:11",
-      "viewCount": "31837"
+      "viewCount": "29537"
     }
   ]
 }
