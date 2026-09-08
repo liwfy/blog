@@ -1,24 +1,32 @@
 {
-  "updatedAt": "2026-09-08T11:40:24.634Z",
+  "updatedAt": "2026-09-08T16:27:17.539Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
     "title": "LIWFY",
     "description": "This channel is run by a dedicated editing team.\n\nEvery video goes through its own curation and editing process, always respecting the licenses and permissions of the original material. We don't do simple reuploads.\n\nEach clip is cut, re-assembled, and paired with original on-screen text commentary, phonk soundtrack, cuts, transitions, and effects — resulting in a new piece with its own identity.\n\nMultiple different clips are combined and manually worked on until they form a single video with editing and commentary exclusive to this channel.\n\nQuestions, credits, or removals: x.fael@outlook.com\nWe reply to every message as soon as possible ❤️\n",
     "subscriberCount": "521000",
-    "videoCount": "19",
+    "videoCount": "20",
     "viewCount": "1026292",
     "avatar": "https://yt3.ggpht.com/FOjj4tlxfY6Mi-lmDmHip5PE6-7GGTXpJEH65RdSFY_vpsk6Pez3pDDyYRpVd7YIc1YaaKVNBg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/s4fLdHoswQ9TZadbeKF_YIC5xxBKnhOkfb1FTDph0ccXL9NE0p8orGRUxaZ3043qKV0ycq1-VQ=w1600"
   },
   "videos": [
     {
+      "id": "EfttGcYev0k",
+      "title": "They swapped his smile for a sad little face..",
+      "publishedAt": "2026-09-08T13:15:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/EfttGcYev0k/maxresdefault.jpg",
+      "duration": "0:15",
+      "viewCount": "167"
+    },
+    {
       "id": "x2bNdLhP1K8",
       "title": "What is that in the cart?",
       "publishedAt": "2026-09-07T14:19:46Z",
       "thumbnail": "https://i.ytimg.com/vi/x2bNdLhP1K8/maxresdefault.jpg",
       "duration": "0:27",
-      "viewCount": "5866"
+      "viewCount": "8948"
     },
     {
       "id": "XhFB_lbATUA",
@@ -26,7 +34,7 @@
       "publishedAt": "2026-09-06T13:05:36Z",
       "thumbnail": "https://i.ytimg.com/vi/XhFB_lbATUA/maxresdefault.jpg",
       "duration": "0:13",
-      "viewCount": "9948"
+      "viewCount": "12419"
     },
     {
       "id": "yORAuuUkkcU",
@@ -34,7 +42,7 @@
       "publishedAt": "2026-09-05T12:17:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yORAuuUkkcU/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "54363"
+      "viewCount": "54446"
     },
     {
       "id": "0veBQoP65DI",
@@ -42,7 +50,7 @@
       "publishedAt": "2026-09-05T06:09:55Z",
       "thumbnail": "https://i.ytimg.com/vi/0veBQoP65DI/maxresdefault.jpg",
       "duration": "0:09",
-      "viewCount": "36323"
+      "viewCount": "36339"
     },
     {
       "id": "yl2PxHDh_fo",
@@ -50,15 +58,7 @@
       "publishedAt": "2026-09-05T02:51:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yl2PxHDh_fo/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "7312"
-    },
-    {
-      "id": "n56WsG5pDCM",
-      "title": "She wasn't ready for this...",
-      "publishedAt": "2026-09-04T07:25:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/n56WsG5pDCM/maxresdefault.jpg",
-      "duration": "0:14",
-      "viewCount": "23322"
+      "viewCount": "7359"
     }
   ]
 }
