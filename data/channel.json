@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-09T12:15:29.461Z",
+  "updatedAt": "2026-09-10T05:10:07.987Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
     "title": "LIWFY",
     "description": "This channel is run by a dedicated editing team.\n\nEvery video goes through its own curation and editing process, always respecting the licenses and permissions of the original material. We don't do simple reuploads.\n\nEach clip is cut, re-assembled, and paired with original on-screen text commentary, phonk soundtrack, cuts, transitions, and effects — resulting in a new piece with its own identity.\n\nMultiple different clips are combined and manually worked on until they form a single video with editing and commentary exclusive to this channel.\n\nQuestions, credits, or removals: x.fael@outlook.com\nWe reply to every message as soon as possible ❤️\n",
     "subscriberCount": "521000",
-    "videoCount": "20",
-    "viewCount": "1027824",
-    "avatar": "https://yt3.ggpht.com/FOjj4tlxfY6Mi-lmDmHip5PE6-7GGTXpJEH65RdSFY_vpsk6Pez3pDDyYRpVd7YIc1YaaKVNBg=s800-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/s4fLdHoswQ9TZadbeKF_YIC5xxBKnhOkfb1FTDph0ccXL9NE0p8orGRUxaZ3043qKV0ycq1-VQ=w1600"
+    "videoCount": "4",
+    "viewCount": "1245811",
+    "avatar": "https://yt3.ggpht.com/L_kU8Ie9k3IVSVuTV_JVL4o-7bpXZVcQPSn8E7tFCxKfaL_K0TW8D30UZ3cc-CxVll5NOGObvQ=s800-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NypHHhW5JydxNdrG6VREoF2KY8yI1cCGPAmU2Oy9lnIvOw7DlhRyCcDZx8MzIPfCt7CfOnwwRQ=w1600"
   },
   "videos": [
     {
@@ -18,7 +18,7 @@
       "publishedAt": "2026-09-08T13:15:54Z",
       "thumbnail": "https://i.ytimg.com/vi/EfttGcYev0k/maxresdefault.jpg",
       "duration": "0:15",
-      "viewCount": "407"
+      "viewCount": "427"
     },
     {
       "id": "x2bNdLhP1K8",
@@ -26,7 +26,7 @@
       "publishedAt": "2026-09-07T14:19:46Z",
       "thumbnail": "https://i.ytimg.com/vi/x2bNdLhP1K8/maxresdefault.jpg",
       "duration": "0:27",
-      "viewCount": "9991"
+      "viewCount": "10134"
     },
     {
       "id": "XhFB_lbATUA",
@@ -34,7 +34,7 @@
       "publishedAt": "2026-09-06T13:05:36Z",
       "thumbnail": "https://i.ytimg.com/vi/XhFB_lbATUA/maxresdefault.jpg",
       "duration": "0:13",
-      "viewCount": "16254"
+      "viewCount": "16893"
     },
     {
       "id": "yORAuuUkkcU",
@@ -42,7 +42,7 @@
       "publishedAt": "2026-09-05T12:17:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yORAuuUkkcU/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "54681"
+      "viewCount": "54723"
     },
     {
       "id": "0veBQoP65DI",
@@ -50,7 +50,7 @@
       "publishedAt": "2026-09-05T06:09:55Z",
       "thumbnail": "https://i.ytimg.com/vi/0veBQoP65DI/maxresdefault.jpg",
       "duration": "0:09",
-      "viewCount": "36372"
+      "viewCount": "36381"
     },
     {
       "id": "yl2PxHDh_fo",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-09-05T02:51:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yl2PxHDh_fo/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "7497"
+      "viewCount": "7499"
     }
   ]
 }
