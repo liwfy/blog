@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T10:30:19.483Z",
+  "updatedAt": "2026-09-12T13:57:48.601Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
@@ -18,7 +18,7 @@
       "publishedAt": "2026-09-08T13:15:54Z",
       "thumbnail": "https://i.ytimg.com/vi/EfttGcYev0k/maxresdefault.jpg",
       "duration": "0:15",
-      "viewCount": "480"
+      "viewCount": "481"
     },
     {
       "id": "x2bNdLhP1K8",
@@ -34,7 +34,7 @@
       "publishedAt": "2026-09-06T13:05:36Z",
       "thumbnail": "https://i.ytimg.com/vi/XhFB_lbATUA/maxresdefault.jpg",
       "duration": "0:13",
-      "viewCount": "17165"
+      "viewCount": "17167"
     },
     {
       "id": "yORAuuUkkcU",
@@ -42,7 +42,7 @@
       "publishedAt": "2026-09-05T12:17:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yORAuuUkkcU/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "54888"
+      "viewCount": "54892"
     },
     {
       "id": "0veBQoP65DI",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-09-05T02:51:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yl2PxHDh_fo/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "7505"
+      "viewCount": "7508"
     }
   ]
 }
