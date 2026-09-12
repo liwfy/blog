@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T21:34:40.043Z",
+  "updatedAt": "2026-09-12T23:53:52.247Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
@@ -34,7 +34,7 @@
       "publishedAt": "2026-09-06T13:05:36Z",
       "thumbnail": "https://i.ytimg.com/vi/XhFB_lbATUA/maxresdefault.jpg",
       "duration": "0:13",
-      "viewCount": "17168"
+      "viewCount": "17170"
     },
     {
       "id": "yORAuuUkkcU",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-09-05T02:51:36Z",
       "thumbnail": "https://i.ytimg.com/vi/yl2PxHDh_fo/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "7508"
+      "viewCount": "7509"
     }
   ]
 }
