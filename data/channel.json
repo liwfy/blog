@@ -1,24 +1,32 @@
 {
-  "updatedAt": "2026-09-21T07:02:14.852Z",
+  "updatedAt": "2026-09-21T14:28:44.267Z",
   "channel": {
     "id": "UCLUwnn095-SrpJMx5Phmvlg",
     "handle": "@lienxt",
     "title": "LIEN",
-    "description": "🎨 I create 3D animations in Blender — every asset, every simulation, built by me from scratch. \n\nEdited in After Effects. \n\nNew video as soon as it's ready 🎬\n",
+    "description": "🧶 I make 3D Roblox animations!\n\nGoal: 1M 🎯\n",
     "subscriberCount": "520000",
-    "videoCount": "1",
+    "videoCount": "2",
     "viewCount": "7806",
-    "avatar": "https://yt3.ggpht.com/L_kU8Ie9k3IVSVuTV_JVL4o-7bpXZVcQPSn8E7tFCxKfaL_K0TW8D30UZ3cc-CxVll5NOGObvQ=s800-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/NypHHhW5JydxNdrG6VREoF2KY8yI1cCGPAmU2Oy9lnIvOw7DlhRyCcDZx8MzIPfCt7CfOnwwRQ=w1600"
+    "avatar": "https://yt3.ggpht.com/ldu62VjnVCvETT-yYJ5-XEoilEAsd5dPQNB2hfvnZnIo9tIobQV_pj2M7_qXaQRh43TC842ctw=s800-c-k-c0x00ffffff-no-rj",
+    "banner": ""
   },
   "videos": [
+    {
+      "id": "xZHJpnhauxI",
+      "title": "Pick one 😍☝️",
+      "publishedAt": "2026-09-21T09:34:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/xZHJpnhauxI/maxresdefault.jpg",
+      "duration": "0:15",
+      "viewCount": "1476"
+    },
     {
       "id": "ZFxPjeJtQ3k",
       "title": "Animal Hospital But The Carpet Has Physics Now",
       "publishedAt": "2026-09-15T00:49:35Z",
       "thumbnail": "https://i.ytimg.com/vi/ZFxPjeJtQ3k/maxresdefault.jpg",
       "duration": "0:24",
-      "viewCount": "7802"
+      "viewCount": "7789"
     }
   ]
 }
