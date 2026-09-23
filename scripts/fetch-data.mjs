@@ -1,7 +1,7 @@
 import { writeFile } from "node:fs/promises";
 
 const API_KEY = process.env.YT_API_KEY;
-const HANDLE = process.env.CHANNEL_HANDLE || "lienxt";
+const HANDLE = process.env.CHANNEL_HANDLE || "liwfy";
 const MAX_VIDEOS = 6;
 
 if (!API_KEY) {

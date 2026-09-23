@@ -66,9 +66,14 @@ function renderVideos(videos) {
   for (const video of videos) {
     const card = document.createElement("a");
     card.className = "video-card";
-    card.href = `https://www.youtube.com/watch?v=${video.id}`;
+    card.href = `https://www.youtube.com/shorts/${video.id}`;
     card.target = "_blank";
     card.rel = "noopener";
+
+    const views = formatCount(video.viewCount);
+    const subParts = [];
+    if (views) subParts.push(`${views} views`);
+    subParts.push(timeAgo(video.publishedAt));
 
     card.innerHTML = `
       <div class="video-card__thumb">
@@ -76,7 +81,7 @@ function renderVideos(videos) {
         ${video.duration ? `<span class="video-card__duration">${video.duration}</span>` : ""}
       </div>
       <p class="video-card__title">${video.title}</p>
-      <p class="video-card__sub">${timeAgo(video.publishedAt)}</p>
+      <p class="video-card__sub">${subParts.join(" · ")}</p>
     `;
 
     grid.appendChild(card);

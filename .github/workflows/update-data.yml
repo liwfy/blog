@@ -31,7 +31,7 @@ jobs:
       - name: Fetch latest channel data
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
-          CHANNEL_HANDLE: lienxt
+          CHANNEL_HANDLE: liwfy
         run: node scripts/fetch-data.mjs
 
       - name: Commit data if changed

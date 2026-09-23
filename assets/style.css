@@ -1,11 +1,11 @@
 :root {
-  --bg: #0a0605;
-  --bg-panel: #120b0a;
-  --ink: #ece4e0;
-  --muted: #9c8b86;
-  --accent: #b3141f;
-  --accent-bright: #e2222f;
-  --line: #3a1c1c;
+  --bg: #060a12;
+  --bg-panel: #0b121e;
+  --ink: #e6edf7;
+  --muted: #8b98ac;
+  --accent: #1463d8;
+  --accent-bright: #3b8eff;
+  --line: #1b2b40;
 
   --font-display: "Anton", sans-serif;
   --font-mono: "JetBrains Mono", monospace;
@@ -57,7 +57,7 @@ img {
   position: relative;
   height: 240px;
   background-color: var(--bg-panel);
-  background-image: linear-gradient(160deg, #1a0808 0%, #0a0605 70%);
+  background-image: linear-gradient(160deg, #101c30 0%, #060a12 70%);
   background-size: cover;
   background-position: center;
   filter: saturate(1.05) contrast(1.02);
@@ -67,7 +67,7 @@ img {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(10, 6, 5, 0) 55%, var(--bg-panel) 100%);
+  background: linear-gradient(180deg, rgba(6, 10, 18, 0) 55%, var(--bg-panel) 100%);
 }
 
 .hero__panel-bg {
@@ -105,7 +105,7 @@ img {
   padding-top: 40px;
   letter-spacing: 0.01em;
   color: var(--ink);
-  text-shadow: 0 0 28px rgba(179, 20, 31, 0.45);
+  text-shadow: 0 0 28px rgba(20, 99, 216, 0.45);
 }
 
 .hero__stats {
@@ -248,7 +248,7 @@ img {
   position: absolute;
   right: 6px;
   bottom: 6px;
-  background: rgba(10, 6, 5, 0.85);
+  background: rgba(6, 10, 18, 0.85);
   border: 1px solid var(--line);
   color: var(--ink);
   font-family: var(--font-mono);
