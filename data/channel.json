@@ -1,32 +1,64 @@
 {
-  "updatedAt": "2026-09-23T09:28:41.562Z",
+  "updatedAt": "2026-09-23T13:44:56.330Z",
   "channel": {
-    "id": "UCLUwnn095-SrpJMx5Phmvlg",
-    "handle": "@lienxt",
-    "title": "LIEN",
-    "description": "🧶 I make 3D Roblox animations!\n\nGoal: 1M 🎯\n",
-    "subscriberCount": "520000",
-    "videoCount": "2",
-    "viewCount": "10736",
-    "avatar": "https://yt3.ggpht.com/ldu62VjnVCvETT-yYJ5-XEoilEAsd5dPQNB2hfvnZnIo9tIobQV_pj2M7_qXaQRh43TC842ctw=s800-c-k-c0x00ffffff-no-rj",
-    "banner": ""
+    "id": "UCjTxfR5vGNoblM309aE3U_Q",
+    "handle": "@liwfy",
+    "title": "LIWFY",
+    "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
+    "subscriberCount": "1660",
+    "videoCount": "9",
+    "viewCount": "1097995",
+    "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
   "videos": [
     {
-      "id": "xZHJpnhauxI",
-      "title": "Pick one 😍☝️",
-      "publishedAt": "2026-09-21T09:34:52Z",
-      "thumbnail": "https://i.ytimg.com/vi/xZHJpnhauxI/maxresdefault.jpg",
-      "duration": "0:15",
-      "viewCount": "2210"
+      "id": "EZM-ceIJk_I",
+      "title": "This Shocked Him Instantly...",
+      "publishedAt": "2026-09-22T07:57:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/EZM-ceIJk_I/maxresdefault.jpg",
+      "duration": "0:10",
+      "viewCount": "8968"
     },
     {
-      "id": "ZFxPjeJtQ3k",
-      "title": "Animal Hospital But The Carpet Has Physics Now",
-      "publishedAt": "2026-09-15T00:49:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZFxPjeJtQ3k/maxresdefault.jpg",
-      "duration": "0:24",
-      "viewCount": "7813"
+      "id": "gVmaH-20-Mk",
+      "title": "💀 \"Its just a prank\"...",
+      "publishedAt": "2026-09-20T05:37:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/gVmaH-20-Mk/hqdefault.jpg",
+      "duration": "0:12",
+      "viewCount": "13276"
+    },
+    {
+      "id": "QFm3InKiNWM",
+      "title": "💀 He faked a police siren and every biker stopped...",
+      "publishedAt": "2026-09-18T16:07:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/QFm3InKiNWM/maxresdefault.jpg",
+      "duration": "0:16",
+      "viewCount": "27318"
+    },
+    {
+      "id": "xPPSPd7G-0c",
+      "title": "🤣 That's a really called horse power...",
+      "publishedAt": "2026-09-15T15:57:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/xPPSPd7G-0c/maxresdefault.jpg",
+      "duration": "0:11",
+      "viewCount": "933726"
+    },
+    {
+      "id": "UvpjKP18PeM",
+      "title": "💀 Precision over power..",
+      "publishedAt": "2026-09-12T15:17:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/UvpjKP18PeM/maxresdefault.jpg",
+      "duration": "0:12",
+      "viewCount": "2575"
+    },
+    {
+      "id": "vU7NbgWAU_Q",
+      "title": "😭 Bro just wanted to eat...",
+      "publishedAt": "2026-09-11T14:20:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/vU7NbgWAU_Q/maxresdefault.jpg",
+      "duration": "0:18",
+      "viewCount": "26834"
     }
   ]
 }
