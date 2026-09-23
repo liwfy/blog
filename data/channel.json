@@ -1,15 +1,32 @@
 {
   "updatedAt": "2026-09-23T09:28:41.562Z",
   "channel": {
-    "id": "UCjTxfR5vGNobIM309aE3U_Q",
-    "handle": "@liwfy",
-    "title": "LIWFY",
-    "description": "Soft hearts. Good energy. Wholesome only.",
-    "subscriberCount": "1660",
-    "videoCount": "9",
-    "viewCount": "459900",
-    "avatar": "",
+    "id": "UCLUwnn095-SrpJMx5Phmvlg",
+    "handle": "@lienxt",
+    "title": "LIEN",
+    "description": "🧶 I make 3D Roblox animations!\n\nGoal: 1M 🎯\n",
+    "subscriberCount": "520000",
+    "videoCount": "2",
+    "viewCount": "10736",
+    "avatar": "https://yt3.ggpht.com/ldu62VjnVCvETT-yYJ5-XEoilEAsd5dPQNB2hfvnZnIo9tIobQV_pj2M7_qXaQRh43TC842ctw=s800-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
-  "videos": []
+  "videos": [
+    {
+      "id": "xZHJpnhauxI",
+      "title": "Pick one 😍☝️",
+      "publishedAt": "2026-09-21T09:34:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/xZHJpnhauxI/maxresdefault.jpg",
+      "duration": "0:15",
+      "viewCount": "2210"
+    },
+    {
+      "id": "ZFxPjeJtQ3k",
+      "title": "Animal Hospital But The Carpet Has Physics Now",
+      "publishedAt": "2026-09-15T00:49:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZFxPjeJtQ3k/maxresdefault.jpg",
+      "duration": "0:24",
+      "viewCount": "7813"
+    }
+  ]
 }
