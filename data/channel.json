@@ -1,24 +1,32 @@
 {
-  "updatedAt": "2026-09-24T05:59:37.332Z",
+  "updatedAt": "2026-09-24T11:37:25.148Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "LIWFY",
     "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
     "subscriberCount": "1670",
-    "videoCount": "9",
+    "videoCount": "10",
     "viewCount": "1165173",
     "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
   "videos": [
     {
+      "id": "QwSaeenWC2A",
+      "title": "😭 What was he even trying to do?",
+      "publishedAt": "2026-09-24T08:33:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/QwSaeenWC2A/maxresdefault.jpg",
+      "duration": "0:10",
+      "viewCount": "1284"
+    },
+    {
       "id": "EZM-ceIJk_I",
       "title": "This Shocked Him Instantly...",
       "publishedAt": "2026-09-22T07:57:25Z",
       "thumbnail": "https://i.ytimg.com/vi/EZM-ceIJk_I/maxresdefault.jpg",
       "duration": "0:10",
-      "viewCount": "15642"
+      "viewCount": "18577"
     },
     {
       "id": "gVmaH-20-Mk",
@@ -26,7 +34,7 @@
       "publishedAt": "2026-09-20T05:37:05Z",
       "thumbnail": "https://i.ytimg.com/vi/gVmaH-20-Mk/hqdefault.jpg",
       "duration": "0:12",
-      "viewCount": "13916"
+      "viewCount": "13978"
     },
     {
       "id": "QFm3InKiNWM",
@@ -34,7 +42,7 @@
       "publishedAt": "2026-09-18T16:07:48Z",
       "thumbnail": "https://i.ytimg.com/vi/QFm3InKiNWM/maxresdefault.jpg",
       "duration": "0:16",
-      "viewCount": "27336"
+      "viewCount": "27341"
     },
     {
       "id": "xPPSPd7G-0c",
@@ -42,7 +50,7 @@
       "publishedAt": "2026-09-15T15:57:57Z",
       "thumbnail": "https://i.ytimg.com/vi/xPPSPd7G-0c/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "947242"
+      "viewCount": "948303"
     },
     {
       "id": "UvpjKP18PeM",
@@ -51,14 +59,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UvpjKP18PeM/maxresdefault.jpg",
       "duration": "0:12",
       "viewCount": "2578"
-    },
-    {
-      "id": "vU7NbgWAU_Q",
-      "title": "😭 Bro just wanted to eat...",
-      "publishedAt": "2026-09-11T14:20:13Z",
-      "thumbnail": "https://i.ytimg.com/vi/vU7NbgWAU_Q/maxresdefault.jpg",
-      "duration": "0:18",
-      "viewCount": "26845"
     }
   ]
 }
