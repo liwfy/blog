@@ -1,24 +1,32 @@
 {
-  "updatedAt": "2026-09-25T13:33:28.804Z",
+  "updatedAt": "2026-09-25T18:26:21.427Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "LIWFY",
     "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
-    "subscriberCount": "1680",
-    "videoCount": "10",
-    "viewCount": "1186147",
+    "subscriberCount": "1690",
+    "videoCount": "11",
+    "viewCount": "1212582",
     "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
   "videos": [
+    {
+      "id": "w8gW2cMngPc",
+      "title": "😅 More of a hindrance than a help...",
+      "publishedAt": "2026-09-25T15:35:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/w8gW2cMngPc/hqdefault.jpg",
+      "duration": "0:11",
+      "viewCount": "1012"
+    },
     {
       "id": "QwSaeenWC2A",
       "title": "😭 What was he even trying to do?",
       "publishedAt": "2026-09-24T08:33:35Z",
       "thumbnail": "https://i.ytimg.com/vi/QwSaeenWC2A/maxresdefault.jpg",
       "duration": "0:10",
-      "viewCount": "27057"
+      "viewCount": "27203"
     },
     {
       "id": "EZM-ceIJk_I",
@@ -26,7 +34,7 @@
       "publishedAt": "2026-09-22T07:57:25Z",
       "thumbnail": "https://i.ytimg.com/vi/EZM-ceIJk_I/maxresdefault.jpg",
       "duration": "0:10",
-      "viewCount": "24136"
+      "viewCount": "25196"
     },
     {
       "id": "gVmaH-20-Mk",
@@ -34,7 +42,7 @@
       "publishedAt": "2026-09-20T05:37:05Z",
       "thumbnail": "https://i.ytimg.com/vi/gVmaH-20-Mk/hqdefault.jpg",
       "duration": "0:12",
-      "viewCount": "14022"
+      "viewCount": "14023"
     },
     {
       "id": "QFm3InKiNWM",
@@ -42,7 +50,7 @@
       "publishedAt": "2026-09-18T16:07:48Z",
       "thumbnail": "https://i.ytimg.com/vi/QFm3InKiNWM/maxresdefault.jpg",
       "duration": "0:16",
-      "viewCount": "27355"
+      "viewCount": "27357"
     },
     {
       "id": "xPPSPd7G-0c",
@@ -50,15 +58,7 @@
       "publishedAt": "2026-09-15T15:57:57Z",
       "thumbnail": "https://i.ytimg.com/vi/xPPSPd7G-0c/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "954743"
-    },
-    {
-      "id": "UvpjKP18PeM",
-      "title": "💀 Precision over power..",
-      "publishedAt": "2026-09-12T15:17:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/UvpjKP18PeM/maxresdefault.jpg",
-      "duration": "0:12",
-      "viewCount": "2583"
+      "viewCount": "962115"
     }
   ]
 }
