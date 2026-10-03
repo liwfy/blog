@@ -1,24 +1,32 @@
 {
-  "updatedAt": "2026-10-02T23:12:31.042Z",
+  "updatedAt": "2026-10-03T02:15:58.333Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "LIWFY",
     "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
     "subscriberCount": "1990",
-    "videoCount": "13",
+    "videoCount": "14",
     "viewCount": "1435522",
     "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
   "videos": [
     {
+      "id": "ApmGoStuoEw",
+      "title": "😭 Who pissed him off?!",
+      "publishedAt": "2026-10-03T00:05:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/ApmGoStuoEw/maxresdefault.jpg",
+      "duration": "0:17",
+      "viewCount": "191"
+    },
+    {
       "id": "zaJkswfeVYA",
       "title": "🤣 Him: Sir, this is a bad idea!",
       "publishedAt": "2026-09-29T20:55:56Z",
       "thumbnail": "https://i.ytimg.com/vi/zaJkswfeVYA/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "24413"
+      "viewCount": "24679"
     },
     {
       "id": "FY76p4EDcF8",
@@ -26,7 +34,7 @@
       "publishedAt": "2026-09-26T23:31:27Z",
       "thumbnail": "https://i.ytimg.com/vi/FY76p4EDcF8/maxresdefault.jpg",
       "duration": "0:09",
-      "viewCount": "33015"
+      "viewCount": "33018"
     },
     {
       "id": "w8gW2cMngPc",
@@ -51,14 +59,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EZM-ceIJk_I/maxresdefault.jpg",
       "duration": "0:10",
       "viewCount": "28521"
-    },
-    {
-      "id": "gVmaH-20-Mk",
-      "title": "💀 \"Its just a prank\"...",
-      "publishedAt": "2026-09-20T05:37:05Z",
-      "thumbnail": "https://i.ytimg.com/vi/gVmaH-20-Mk/hqdefault.jpg",
-      "duration": "0:12",
-      "viewCount": "14079"
     }
   ]
 }
