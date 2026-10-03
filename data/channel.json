@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T02:15:58.333Z",
+  "updatedAt": "2026-10-03T08:29:58.397Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "LIWFY",
     "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
-    "subscriberCount": "1990",
+    "subscriberCount": "2010",
     "videoCount": "14",
-    "viewCount": "1435522",
+    "viewCount": "1469315",
     "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
@@ -18,7 +18,7 @@
       "publishedAt": "2026-10-03T00:05:28Z",
       "thumbnail": "https://i.ytimg.com/vi/ApmGoStuoEw/maxresdefault.jpg",
       "duration": "0:17",
-      "viewCount": "191"
+      "viewCount": "1230"
     },
     {
       "id": "zaJkswfeVYA",
@@ -26,7 +26,7 @@
       "publishedAt": "2026-09-29T20:55:56Z",
       "thumbnail": "https://i.ytimg.com/vi/zaJkswfeVYA/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "24679"
+      "viewCount": "25147"
     },
     {
       "id": "FY76p4EDcF8",
@@ -50,7 +50,7 @@
       "publishedAt": "2026-09-24T08:33:35Z",
       "thumbnail": "https://i.ytimg.com/vi/QwSaeenWC2A/maxresdefault.jpg",
       "duration": "0:10",
-      "viewCount": "27538"
+      "viewCount": "27540"
     },
     {
       "id": "EZM-ceIJk_I",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-09-22T07:57:25Z",
       "thumbnail": "https://i.ytimg.com/vi/EZM-ceIJk_I/maxresdefault.jpg",
       "duration": "0:10",
-      "viewCount": "28521"
+      "viewCount": "28522"
     }
   ]
 }
