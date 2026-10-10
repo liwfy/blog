@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T09:39:46.384Z",
+  "updatedAt": "2026-10-10T15:48:44.299Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "LIWFY",
     "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
-    "subscriberCount": "2280",
+    "subscriberCount": "2310",
     "videoCount": "15",
-    "viewCount": "1670026",
+    "viewCount": "1689004",
     "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
@@ -18,7 +18,7 @@
       "publishedAt": "2026-10-05T13:20:22Z",
       "thumbnail": "https://i.ytimg.com/vi/cDpC9lXBvnM/maxresdefault.jpg",
       "duration": "0:13",
-      "viewCount": "25913"
+      "viewCount": "25919"
     },
     {
       "id": "ApmGoStuoEw",
@@ -26,7 +26,7 @@
       "publishedAt": "2026-10-03T00:05:28Z",
       "thumbnail": "https://i.ytimg.com/vi/ApmGoStuoEw/maxresdefault.jpg",
       "duration": "0:17",
-      "viewCount": "1954"
+      "viewCount": "1956"
     },
     {
       "id": "zaJkswfeVYA",
@@ -34,7 +34,7 @@
       "publishedAt": "2026-09-29T20:55:56Z",
       "thumbnail": "https://i.ytimg.com/vi/zaJkswfeVYA/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "27016"
+      "viewCount": "27017"
     },
     {
       "id": "FY76p4EDcF8",
@@ -42,7 +42,7 @@
       "publishedAt": "2026-09-26T23:31:27Z",
       "thumbnail": "https://i.ytimg.com/vi/FY76p4EDcF8/maxresdefault.jpg",
       "duration": "0:09",
-      "viewCount": "33047"
+      "viewCount": "33049"
     },
     {
       "id": "w8gW2cMngPc",
@@ -50,7 +50,7 @@
       "publishedAt": "2026-09-25T15:35:52Z",
       "thumbnail": "https://i.ytimg.com/vi/w8gW2cMngPc/hqdefault.jpg",
       "duration": "0:11",
-      "viewCount": "26822"
+      "viewCount": "26824"
     },
     {
       "id": "QwSaeenWC2A",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-09-24T08:33:35Z",
       "thumbnail": "https://i.ytimg.com/vi/QwSaeenWC2A/maxresdefault.jpg",
       "duration": "0:10",
-      "viewCount": "27558"
+      "viewCount": "27560"
     }
   ]
 }
