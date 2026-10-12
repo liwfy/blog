@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-11T23:52:45.333Z",
+  "updatedAt": "2026-10-12T05:32:38.016Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "LIWFY",
     "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
-    "subscriberCount": "2380",
+    "subscriberCount": "2390",
     "videoCount": "15",
-    "viewCount": "1732267",
+    "viewCount": "1752675",
     "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
@@ -34,7 +34,7 @@
       "publishedAt": "2026-09-29T20:55:56Z",
       "thumbnail": "https://i.ytimg.com/vi/zaJkswfeVYA/maxresdefault.jpg",
       "duration": "0:11",
-      "viewCount": "27020"
+      "viewCount": "27023"
     },
     {
       "id": "FY76p4EDcF8",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-09-24T08:33:35Z",
       "thumbnail": "https://i.ytimg.com/vi/QwSaeenWC2A/maxresdefault.jpg",
       "duration": "0:10",
-      "viewCount": "27564"
+      "viewCount": "27566"
     }
   ]
 }
