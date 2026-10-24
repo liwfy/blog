@@ -1,17 +1,25 @@
 {
-  "updatedAt": "2026-10-24T14:48:54.659Z",
+  "updatedAt": "2026-10-24T18:00:24.448Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "LIWFY",
     "description": "🕊️ Soft hearts. Good energy. Wholesome only.\n",
     "subscriberCount": "2910",
-    "videoCount": "15",
-    "viewCount": "2149262",
+    "videoCount": "16",
+    "viewCount": "2154076",
     "avatar": "https://yt3.ggpht.com/CQut662XRtbPSxrZum0qhcYXMyMInqp30HPcf9bk1yN28_2ZyBHsBXzM-AV3V38SNL_hY9T-Jg=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/myU1h3C8PnrGZwlyw41e50jj-OmxAv3JGR9bkrMawVV-Sb4FFFT04JkZHTErc1NnAarxmrAW=w1600"
   },
   "videos": [
+    {
+      "id": "o0u6ZYKeiLI",
+      "title": "New way to get on the train",
+      "publishedAt": "2026-10-24T16:14:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/o0u6ZYKeiLI/maxresdefault.jpg",
+      "duration": "0:15",
+      "viewCount": "1441"
+    },
     {
       "id": "cDpC9lXBvnM",
       "title": "He won the World Cup but not her heart...",
@@ -51,14 +59,6 @@
       "thumbnail": "https://i.ytimg.com/vi/w8gW2cMngPc/hqdefault.jpg",
       "duration": "0:11",
       "viewCount": "26875"
-    },
-    {
-      "id": "QwSaeenWC2A",
-      "title": "😭 What was he even trying to do?",
-      "publishedAt": "2026-09-24T08:33:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/QwSaeenWC2A/maxresdefault.jpg",
-      "duration": "0:10",
-      "viewCount": "27608"
     }
   ]
 }
