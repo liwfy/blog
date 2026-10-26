@@ -1,24 +1,32 @@
 {
-  "updatedAt": "2026-10-26T07:39:29.968Z",
+  "updatedAt": "2026-10-26T15:03:33.868Z",
   "channel": {
     "id": "UCjTxfR5vGNoblM309aE3U_Q",
     "handle": "@liwfy",
     "title": "Liwfy",
     "description": "Let’s Hit 100K Subs Together! 💙\n\nWelcome to Liwfy, where Roblox memes come to life!\n\nExpect quick, funny Shorts starring the Noob, with silly situations, chaotic moments, and plenty of random humor.\n\nEverything here is made just for fun. The scripts, animations, and editing are all done by me and my team.\n\nThanks for watching and being part of the journey!\n",
-    "subscriberCount": "2940",
-    "videoCount": "1",
+    "subscriberCount": "2990",
+    "videoCount": "2",
     "viewCount": "9683",
     "avatar": "https://yt3.ggpht.com/6apSrwkRksFmRnDILV5riV4pXfSZhh9r8ixlEJclVrEh1BvQgRL4vh0MVu2EuuC0w8ZpjQ=s800-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/6K4LrYX_AyP1zasmNBR8xN3TdkvoU4JgXX0JSQxwxO5fBehStHUB7cNuQbraRSZ7zJuN7ctg1w=w1600"
   },
   "videos": [
     {
+      "id": "DOHjTFq2Sek",
+      "title": "He Stole My Painting and Won First Place... 💀🎨 #roblox #funny #animation",
+      "publishedAt": "2026-10-26T09:14:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/DOHjTFq2Sek/maxresdefault.jpg",
+      "duration": "0:39",
+      "viewCount": "11321"
+    },
+    {
       "id": "iNmHeimVZoE",
       "title": "The Librarian Who Banned Breathing!",
       "publishedAt": "2026-10-25T00:23:39Z",
       "thumbnail": "https://i.ytimg.com/vi/iNmHeimVZoE/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": "10433"
+      "viewCount": "16602"
     }
   ]
 }
